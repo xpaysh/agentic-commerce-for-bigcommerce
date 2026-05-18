@@ -42,7 +42,7 @@ import { buildAp2RouteTable } from "./routes/ap2";
 import { withSigVerify } from "./middleware/sig-verify";
 import type { RouteHandler, RouteRequest, RouteResponse } from "./routes/types";
 
-const VERSION = "0.1.0";
+const VERSION = "0.2.2";
 
 function buildHandler() {
   const config = loadConfig();
