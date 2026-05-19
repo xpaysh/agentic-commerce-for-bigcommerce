@@ -1,6 +1,6 @@
 {
   "name": "agentic-commerce-for-bigcommerce",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Agentic commerce for BigCommerce. Multi-protocol (ACP, UCP, AP2) discovery + cart-handoff service. Ships /llms.txt, /.well-known/ucp, robots.txt allowlist for real AI crawlers, schema.org JSON-LD on PDPs (via API), signed-JWT cart-deeplink redemption, and full ACP/UCP/AP2 REST endpoint stack. Implements @xpaysh/adapter-contract against the BigCommerce Stores API. Rail-agnostic: merchant's existing payment integration handles money.",
   "private": true,
   "license": "Apache-2.0",
